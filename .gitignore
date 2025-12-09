@@ -1,0 +1,66 @@
+# ------------------------------
+#   PYTHON / MACHINE LEARNING
+# ------------------------------
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+env/
+venv/
+.venv/
+
+# pip cache
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Jupyter auto-save & checkpoints
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ------------------------------
+#   DATA & BIOMÉTRIE
+# ------------------------------
+
+# Images, audio, raw datasets
+TP4/Data/faces/
+TP4/Data/fingerprint/
+TP4/Data/voices/
+
+# CSV générés automatiquement
+TP4/outputs/*.csv
+TP4/outputs/secured/*.csv
+
+# Logs
+*.log
+
+# Visualisations générées
+TP4/outputs/*.png
+TP4/outputs/*.jpg
+TP4/outputs/*.jpeg
+
+# Rapports générés
+TP4/outputs/*.txt
+
+# ------------------------------
+#   IDE & OS FILES
+# ------------------------------
+
+# VSCode
+.vscode/
+.history/
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ------------------------------
+#   NOTEBOOKS (OPTIONNEL)
+# ------------------------------
+# Uncomment if you don’t want to track large notebooks
+# *.ipynb
