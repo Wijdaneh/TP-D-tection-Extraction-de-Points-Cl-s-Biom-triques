@@ -1,0 +1,17 @@
+# requirements.txt pour le projet TP4
+# Liste des dépendances Python nécessaires
+
+# Pour manipulation de données
+numpy
+pandas
+
+# Pour visualisation (si besoin)
+matplotlib
+seaborn
+
+# Pour traitement de fichiers ou parsing
+openpyxl
+xlrd
+
+# Pour tout projet Python standard
+requests
