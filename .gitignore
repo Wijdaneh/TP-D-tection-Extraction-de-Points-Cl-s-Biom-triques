@@ -1,6 +1,28 @@
 # ------------------------------
 #   PYTHON / MACHINE LEARNING
 # ------------------------------
+# TP4 Project .gitignore
+# Exclut fichiers temporaires, environnement virtuel, logs, fichiers compilés
+# et données générées automatiquement.
+# Objectif : garder le dépôt propre et versionner uniquement les fichiers pertinents.
+
+# Environnements virtuels
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Données générées
+*.tmp
+*.bak
+*.swp
+
 
 __pycache__/
 *.py[cod]
