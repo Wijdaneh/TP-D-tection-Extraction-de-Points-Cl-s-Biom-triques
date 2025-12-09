@@ -1,17 +1,5 @@
 # 🧬 TP -- Détection & Extraction de Points Clés Biométriques
 
-**Version 2.0.0 -- Wijdane Hachani**
-
-```{=html}
-<p align="center">
-```
-`<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Biometric_Systems.svg/512px-Biometric_Systems.svg.png" width="280">`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
 ## ⭐ Présentation du Projet
 
 Ce projet implémente une pipeline complète de **traitement biométrique
