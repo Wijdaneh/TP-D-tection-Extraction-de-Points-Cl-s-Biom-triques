@@ -1,0 +1,85 @@
+2025-12-09 22:03:40,831 - WARNING - From c:\Users\Wijdane\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-12-09 22:03:44,874 - INFO - 
+============================================================
+2025-12-09 22:03:44,877 - INFO - TRAITEMENT DES VISAGES
+2025-12-09 22:03:44,877 - INFO - ============================================================
+2025-12-09 22:03:56,400 - INFO - 
+============================================================
+2025-12-09 22:03:56,404 - INFO - TRAITEMENT DES EMPREINTES
+2025-12-09 22:03:56,410 - INFO - ============================================================
+2025-12-09 22:04:01,756 - INFO - 
+============================================================
+2025-12-09 22:04:01,758 - INFO - TRAITEMENT DE LA VOIX
+2025-12-09 22:04:01,762 - INFO - ============================================================
+2025-12-09 22:27:07,626 - WARNING - From c:\Users\Wijdane\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-12-09 22:27:09,540 - INFO - MediaPipe disponible pour detection faciale avancee
+2025-12-09 22:27:09,575 - WARNING - Librosa non disponible - extraction audio simplifiee
+2025-12-09 22:27:09,706 - INFO - 
+============================================================
+2025-12-09 22:27:09,712 - INFO - TRAITEMENT DES VISAGES
+2025-12-09 22:27:09,713 - INFO - ============================================================
+2025-12-09 22:27:09,725 - INFO - [faces] 3 fichiers trouves
+2025-12-09 22:27:10,014 - INFO - [Visage] IMG2.jpeg extrait (MediaPipe) - Qualite: 0.60
+2025-12-09 22:27:10,125 - INFO - [Visage] IMG3.jpg extrait (MediaPipe) - Qualite: 0.60
+2025-12-09 22:27:10,255 - INFO - [Visage] IMG5.jpg extrait (MediaPipe) - Qualite: 0.60
+2025-12-09 22:27:10,369 - INFO - [Export] Visages -> C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\features_faces.csv
+2025-12-09 22:27:12,173 - INFO - Graphique sauvegarde : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_faces_quality.png
+2025-12-09 22:27:13,319 - INFO - Heatmap sauvegardee : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_faces_heatmap.png
+2025-12-09 22:27:15,541 - INFO - PCA sauvegardee : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_faces_pca.png
+2025-12-09 22:27:15,549 - INFO - 
+============================================================
+2025-12-09 22:27:15,552 - INFO - TRAITEMENT DES EMPREINTES
+2025-12-09 22:27:15,554 - INFO - ============================================================
+2025-12-09 22:27:15,560 - INFO - [fingerprint] 4 fichiers trouves
+2025-12-09 22:27:16,352 - INFO - [Empreinte] Em2.png extraite - 64 kpts - Qualite: 0.56
+2025-12-09 22:27:16,516 - INFO - [Empreinte] Em3.png extraite - 64 kpts - Qualite: 0.56
+2025-12-09 22:27:16,634 - INFO - [Empreinte] Em4.png extraite - 64 kpts - Qualite: 0.56
+2025-12-09 22:27:16,708 - INFO - [Empreinte] Em5.png extraite - 64 kpts - Qualite: 0.56
+2025-12-09 22:27:16,739 - INFO - [Export] Empreintes -> C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\features_fingerprint.csv
+2025-12-09 22:27:18,445 - INFO - Graphique sauvegarde : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_fingerprint_quality.png
+2025-12-09 22:27:19,392 - INFO - Heatmap sauvegardee : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_fingerprint_heatmap.png
+2025-12-09 22:27:20,193 - INFO - PCA sauvegardee : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_fingerprint_pca.png
+2025-12-09 22:27:20,196 - INFO - 
+============================================================
+2025-12-09 22:27:20,198 - INFO - TRAITEMENT DE LA VOIX
+2025-12-09 22:27:20,204 - INFO - ============================================================
+2025-12-09 22:27:20,208 - INFO - [voices] 4 fichiers trouves
+2025-12-09 22:27:20,219 - INFO - [Voix] ahem_x.wav extraite (minimal)
+2025-12-09 22:27:20,266 - INFO - [Voix] air_raid.wav extraite (minimal)
+2025-12-09 22:27:20,275 - INFO - [Voix] applause_y.wav extraite (minimal)
+2025-12-09 22:27:20,287 - INFO - [Voix] baby_cry.wav extraite (minimal)
+2025-12-09 22:27:20,303 - INFO - [Export] Voix -> C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\features_voices.csv
+2025-12-09 22:27:21,465 - INFO - Graphique sauvegarde : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_voices_quality.png
+2025-12-09 22:27:22,159 - INFO - Heatmap sauvegardee : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_voices_heatmap.png
+2025-12-09 22:27:23,080 - INFO - PCA sauvegardee : C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\viz_voices_pca.png
+2025-12-09 22:27:23,094 - INFO - [Rapport] Sauvegarde -> C:\Users\Wijdane\Desktop\tp4_project_HachaniWijdane_v2.0.0\TP4\outputs\summary_report.txt
+2025-12-09 22:50:14,557 - INFO - ✓ MediaPipe disponible pour landmarks faciaux 468 points
+2025-12-09 22:50:14,566 - WARNING - ✓ SoundFile disponible pour audio basique
+2025-12-09 23:02:25,143 - INFO - [Visage] IMG2.jpeg: 478 landmarks - Qualité: 0.50
+2025-12-09 23:02:25,280 - INFO - [Visage] IMG2.jpeg: 478 landmarks - Qualité: 0.50
+2025-12-09 23:02:25,358 - INFO - [Visage] IMG3.jpg: 478 landmarks - Qualité: 0.50
+2025-12-09 23:02:25,432 - INFO - [Visage] IMG3.jpg: 478 landmarks - Qualité: 0.50
+2025-12-09 23:02:25,582 - INFO - [Visage] IMG5.jpg: 478 landmarks - Qualité: 0.50
+2025-12-09 23:02:25,785 - INFO - [Visage] IMG5.jpg: 478 landmarks - Qualité: 0.50
+2025-12-09 23:02:26,174 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:26,334 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:26,549 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:26,650 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:26,774 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:26,984 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:27,386 - INFO - [Empreinte] Em2.png: 1 minuties - Qualité: 0.10
+2025-12-09 23:02:27,679 - INFO - [Empreinte] Em2.png: 1 minuties - Qualité: 0.10
+2025-12-09 23:02:27,964 - INFO - [Empreinte] Em3.png: 277 minuties - Qualité: 0.53
+2025-12-09 23:02:28,199 - INFO - [Empreinte] Em3.png: 277 minuties - Qualité: 0.53
+2025-12-09 23:02:28,315 - INFO - [Empreinte] Em4.png: 162 minuties - Qualité: 0.53
+2025-12-09 23:02:28,433 - INFO - [Empreinte] Em4.png: 162 minuties - Qualité: 0.53
+2025-12-09 23:02:28,532 - INFO - [Empreinte] Em5.png: 72 minuties - Qualité: 0.53
+2025-12-09 23:02:28,601 - INFO - [Empreinte] Em5.png: 72 minuties - Qualité: 0.53
+2025-12-09 23:02:28,775 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:28,875 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:28,972 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:29,062 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:29,154 - INFO - [Fuzzy Vault] Coffre créé: 550 points
+2025-12-09 23:02:29,256 - INFO - [Fuzzy Vault] Coffre créé: 550 points

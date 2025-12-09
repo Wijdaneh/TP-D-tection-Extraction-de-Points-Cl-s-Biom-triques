@@ -1,0 +1,34 @@
+================================================================================
+RAPPORT DE TRAITEMENT BIOMÉTRIQUE - VERSION 3
+Date : 2025-12-09 22:27:23
+================================================================================
+
+
+### VISAGES ###
+  Échantillons traités : 3
+  Score qualité moyen : 0.600 ± 0.000
+  Score min/max : 0.600 / 0.600
+  Landmarks moyens : 468
+  Dimensions features : 1467
+
+### EMPREINTES ###
+  Échantillons traités : 4
+  Score qualité moyen : 0.558 ± 0.002
+  Score min/max : 0.557 / 0.561
+  Keypoints moyens : 64
+  Dimensions features : 420
+
+### VOIX ###
+  Échantillons traités : 4
+  Score qualité moyen : 0.627 ± 0.013
+  Score min/max : 0.612 / 0.639
+  Durée audio moyenne : 9.6s
+  Dimensions features : 4
+
+================================================================================
+CONFORMITÉ RGPD/CNDP :
+  - Pseudonymisation : [OK] Activee
+  - Tracabilite : [OK] Logs actifs
+  - Minimisation : [OK] Extraction features uniquement (pas d'images brutes)
+  - Securite : [OK] Normalisation + filtrage qualite
+================================================================================

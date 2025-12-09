@@ -1,0 +1,45 @@
+================================================================================
+RAPPORT DU SYSTÈME BIOMÉTRIQUE
+Date : 2025-12-09 23:02:29
+================================================================================
+
+### FACE ###
+  Templates extraits : 6
+  Qualité moyenne : 0.503
+
+### FINGERPRINT ###
+  Templates extraits : 6
+  Qualité moyenne : 0.528
+
+TOTAL TEMPLATES : 12
+
+================================================================================
+SÉCURISATION CRYPTOGRAPHIQUE
+  face: 6 Vaults, 6 Extractors
+  fingerprint: 6 Vaults, 6 Extractors
+
+================================================================================
+FICHIERS GÉNÉRÉS
+================================================================================
+  outputs/faces.csv                         0.3 KB
+  outputs/features_faces.csv              198.5 KB
+  outputs/features_fingerprint.csv         13.2 KB
+  outputs/features_voices.csv               0.6 KB
+  outputs/finger.csv                       24.1 KB
+  outputs/summary_report.txt                1.1 KB
+  outputs/viz_faces_heatmap.png            62.7 KB
+  outputs/viz_faces_pca.png                57.8 KB
+  outputs/viz_faces_quality.png            62.4 KB
+  outputs/viz_faces_similarity.png         52.6 KB
+  outputs/viz_fingerprint_heatmap.png      55.9 KB
+  outputs/viz_fingerprint_pca.png          50.3 KB
+  outputs/viz_fingerprint_quality.png      64.6 KB
+  outputs/viz_fingerprint_similarity.png   60.3 KB
+  outputs/viz_voices_heatmap.png           43.7 KB
+  outputs/viz_voices_pca.png               52.4 KB
+  outputs/viz_voices_quality.png           62.7 KB
+  outputs/voice.csv                         0.8 KB
+  secured/face_extractor.csv               28.1 KB
+  secured/face_vault.csv                   69.7 KB
+  secured/fingerprint_extractor.csv        28.1 KB
+  secured/fingerprint_vault.csv            69.7 KB
